@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DemoNetCoreConsoleApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "NETCORE_ENVIRONMENT": "Debug"
+      }
+    }
+  }
+}
