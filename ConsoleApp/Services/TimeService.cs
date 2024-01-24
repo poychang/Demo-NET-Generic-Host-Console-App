@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace DemoNetCoreConsoleApp.Services
+﻿namespace ConsoleApp.Services
 {
     public class TimeService
     {
